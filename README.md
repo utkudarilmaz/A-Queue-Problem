@@ -10,6 +10,6 @@ b) Aynı işlemi aynı değerleri kullanarak öncelikli kuyruk için tekrarlayı
 
 Bu problem için 2 ayrı program yazınız:
 
-Program1: Problemin a-şıkkındaki açıklamalara göre gerçekleştireceğiniz programda kullanacağınız kuyruk veri yapısını ve ilgili fonksiyonları bağlı liste yapısı kurarak gerçekleştiriniz(Derste verilen kodlarda bazı değişiklikler yaparak).
+Program1: Problemin a-şıkkındaki açıklamalara göre gerçekleştireceğiniz programda kullanacağınız kuyruk veri yapısını ve ilgili fonksiyonları bağlı liste yapısı kurarak gerçekleştiriniz.
 
 Program2: Problemin a-şıkkındaki açıklamalara göre gerçekleştireceğiniz programda kullanacağınız kuyruk veri yapısını ve ilgili fonksiyonları sabit boyutlu dizi yapısı kurarak gerçekleştiriniz.
