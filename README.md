@@ -1,8 +1,8 @@
 # A-Queue-Problem
 
-##Problem: Queue kullanarak Banka Kuyruğu Oluşturmak
+## Problem: Queue kullanarak Banka Kuyruğu Oluşturmak
 
-###Problemin Tanımı:
+### Problemin Tanımı:
 
  a) Bir bankaya sabahleyin gelmiş olan N kişinin, geliş sıralarına göre kuyruk oluşturduklarını varsayın. Her birinin işleminin 30 saniye ile 300 sn. arasında random bir zaman aldığını varsayın. Her bir banka müşterisine numara vererek ve her birine random birer işlem süresi atayarak N elemanlı bir kuyruk oluşturunuz. Her bir müşterinin işi biterek kuyruktan çıkarıldığında işlem tamamlanma süresini (işlem süresi dâhil ne kadar süre kuyrukta kaldığını) liste halinde yazdırınız. Ayrıca, N adet müşteri için ortalama işlem tamamlanma süresini de hesaplayıp yazdırınız. 
 
